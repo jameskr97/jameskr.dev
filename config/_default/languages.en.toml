@@ -10,15 +10,13 @@ title = "James Roberts"
   dateFormat = "2006 January 2"
   # logo = "img/logo.png"
   # secondaryLogo = "img/img.jpg"
-  description = "My awesome website"
+  description = "James' Personal Website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "James Roberts"
-  # image = "img/img.jpg"
-  # headline = "I'm only human"
-  # headline = "Programming Reality, Modeling Dreams"
-  headline = "I don't know what to put here"
+  image = "img/nezuko.jpg"
+  headline = "I don't know what to put here" # "I'm only human", "Programming Reality, Modeling Dreams"
   bio = "A little bit about you"
   links = [
     { email = "mailto:james@jameskr.dev" },
