@@ -31,7 +31,7 @@ disableImageOptimization = true
   showMenu = true
   showCopyright = false
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
