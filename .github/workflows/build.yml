@@ -50,6 +50,9 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          HUGO_PARAMS_UMAMI_ENABLED: ${{ secrets.HUGO_PARAMS_UMAMI_ENABLED }}
+          HUGO_PARAMS_UMAMI_SCRIPTURL: ${{ secrets.HUGO_PARAMS_UMAMI_SCRIPTURL }}
+          HUGO_PARAMS_UMAMI_WEBSITEID: ${{ secrets.HUGO_PARAMS_UMAMI_WEBSITEID }}
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}"   
                
       - name: Upload artifact
