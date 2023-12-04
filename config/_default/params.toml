@@ -36,7 +36,8 @@ disableImageOptimization = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/wallhaven-3219.png" # used in: hero, and card
+  # homepageImage = "img/wallhaven-109347.jpg" # used in: hero, and card
+  homepageImage = "img/mountain-range.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
