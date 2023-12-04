@@ -16,7 +16,7 @@ title = "James"
 [author]
   name = "James"
   image = "img/husky-headshot.jpg"
-  headline = "I don't know what to put here" # "I'm only human", "Programming Reality, Modeling Dreams"
+  headline = "Website is a work-in-progress! (I am activley working on it!)" # "I'm only human", "Programming Reality, Modeling Dreams"
   bio = "A little bit about you"
   links = [
     { email = "mailto:james@jameskr.dev" },
