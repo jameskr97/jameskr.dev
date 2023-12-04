@@ -15,7 +15,7 @@ title = "James"
 
 [author]
   name = "James"
-  image = "img/nezuko.jpg"
+  image = "img/husky-headshot.jpg"
   headline = "I don't know what to put here" # "I'm only human", "Programming Reality, Modeling Dreams"
   bio = "A little bit about you"
   links = [
