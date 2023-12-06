@@ -1,5 +1,6 @@
 languageCode = "en"
 languageName = "English"
+contentDir = "content/en"
 weight = 1
 title = "James"
 
@@ -20,7 +21,7 @@ title = "James"
   bio = "writes code to relax"
   links = [
     { email = "mailto:james@jameskr.dev" },
-    { pgpkey = "/key.txt"},
+    # { pgpkey = "/key.txt"},
     { github = "https://github.com/jameskr97" },
     { matrix = "https://matrix.to/#/@jameskr:matrix.org"}
 #     { link = "https://link-to-some-website.com/" },
