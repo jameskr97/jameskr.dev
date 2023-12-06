@@ -9,6 +9,6 @@ cardView = true
 +++
 
 {{< lead >}}
-Here are a collection of projects I've dedicated a significat portion of time towards, and projects that are still a work in progress.
+Here are a collection of projects I've dedicated a significant portion of time towards, and projects that are still a work in progress.
 {{< /lead >}}
 
