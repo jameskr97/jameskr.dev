@@ -2,6 +2,12 @@
 
 a repo for my personal website!
 
+## dev environment - make sure hugo is installed
+
+1. Run `git submodule update --init --recursive` to clone the theme 
+2. Run `brew install hugo` to install hugo (or whatever package manager you use)
+3. Run `hugo server` to start the server
+
 ## environment variables
 | variable | default value | usage |
 | -------- | ------------- | ----- |
